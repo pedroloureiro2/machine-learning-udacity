@@ -1,0 +1,6 @@
+O software foi desenvolvido em python3 com o Jupyter Notebook.
+O arquivo com os dados é o os_data_2.csv
+
+Para executar o código completo é necessário também instalar o seaborn:
+pip3 install seaborn
+
